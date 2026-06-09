@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "b16f8487b79ce15b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b5a1ea06bf8fbce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a64c36965a014114",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DS49/Ingesta de datos/6- Post venta.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6- Post venta"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ac6a9cc7655b8127",
+    "type": "split",
+    "children": [
+      {
+        "id": "8371db9e28a49132",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbcc7682cbbd6cdc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "7dab059ff27195a0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "0246584a93b1a5ef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 222.5
+  },
+  "right": {
+    "id": "e7750557edc643ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2bdcf28f4b8a0c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5a47f25b0d8a462",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Como Funciona/Informes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Informes"
+            }
+          },
+          {
+            "id": "352b4a4d002f652d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1️⃣ Inicio/Aplicación Ds19.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Aplicación Ds19"
+            }
+          },
+          {
+            "id": "1100e850547e5944",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "9bebe07741bbb165",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "9c9d0b05e1ffb375",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DS49/Ingesta de datos/6- Post venta.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de 6- Post venta"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "webpage-html-export:Export as HTML": false
+    }
+  },
+  "active": "a64c36965a014114",
+  "lastOpenFiles": [
+    "DS49/Ingesta de datos/5- Acontecimientos.md",
+    "DS49/Ingesta de datos/6- Post venta.md",
+    "DS49/Ingesta de datos/4- Resoluciones y sustituciones.md",
+    "DS49/Ingesta de datos/1-Creación de proyectos.md",
+    "Pasted image 20260609155604.png",
+    "img/Pasted image 20260609155610.png",
+    "Pasted image 20260609155606.png",
+    "Pasted image 20260609155437.png",
+    "DS49/Ingesta de datos/2- Carga de informes.md",
+    "DS49/Ingesta de datos/3- Registro de pagos.md",
+    "index.md",
+    "img",
+    "img/Pasted image 20260609155133.png",
+    "DS49/1- Ingesta de datos.md",
+    "DS49/Ingesta de datos",
+    "DS49",
+    "Generar Informes/Ds19/1 - Relleno de datos.md",
+    "Generar Informes/Ds49/1- Relleno de datos.md",
+    "Como Funciona/Informes.md",
+    "Manual Egis Los Robles.html",
+    "index.html",
+    "Como Funciona",
+    "Generar Informes",
+    "Generar Informes/Ds49",
+    "Generar Informes/Ds19",
+    "Generar Informes",
+    "1️⃣ Inicio/Aplicación Ds49.md",
+    "1️⃣ Inicio/Aplicación Ds19.md",
+    "site-lib/media/favicon.png",
+    "site-lib/media/2308ab1944a6bfa5c5b8.svg",
+    "site-lib/media/6155340132a851f6089e.svg",
+    "1️⃣ Inicio/img/diagrama-ds19.png",
+    "1️⃣ Inicio/img/pasted-image-20260525170122.png",
+    "Sin título.md",
+    "Aplicación Ds49.md",
+    "Aplicación Ds19.md"
+  ]
+}
