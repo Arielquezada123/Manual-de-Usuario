@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f78f6f91eb5f7e77",
+        "id": "a440e545e234a854",
         "type": "tabs",
         "children": [
           {
-            "id": "3a19572b0dcda07f",
+            "id": "752b5408fc67960c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DS49/Ingesta de datos/2- Creación de informes.md",
+                "file": "Administrador/1-Ingreso de nuevos usuarios.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2- Creación de informes"
+              "title": "1-Ingreso de nuevos usuarios"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DS49/Ingesta de datos/2- Creación de informes.md",
+                "file": "Administrador/1-Ingreso de nuevos usuarios.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de 2- Creación de informes"
+              "title": "Esquema de 1-Ingreso de nuevos usuarios"
             }
           }
         ],
@@ -185,46 +185,52 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "3a19572b0dcda07f",
+  "active": "752b5408fc67960c",
   "lastOpenFiles": [
-    "DS49/Ingesta de datos/1-Creación de proyecto.md",
-    "DS49/Ingesta de datos/2- Creación de informes.md",
-    "DS49/Ingesta de datos/3- Registro de pagos.md",
-    "DS49/Ingesta de datos/4- Resoluciones y sustituciones.md",
-    "DS49/Ingesta de datos/5- Acontecimientos.md",
-    "DS49/Ingesta de datos/6- Post venta.md",
-    "DS49/Ingesta de datos/7- Datos Generales del Proyecto.md",
-    "DS49/Ingesta de datos/8- Archivos Adjuntos.md",
-    "DS49/Ingesta de datos/9- Fiscalizador Obras.md",
+    "DS49/1-Creación de proyectos.md",
+    "DS49/2-Registro de pagos.md",
+    "DS49/3-Acontecimientos.md",
+    "DS49/4-Resoluciones y sustituciones.md",
+    "DS49/5-Post venta y otras gestiones.md",
+    "DS49/6-Datos Generales del Proyecto.md",
+    "DS49/7-Archivos Adjuntos.md",
+    "DS49/8-Fiscalizador Obras.md",
+    "DS49/9-Firma.md",
+    "DS49/10-Creación de informes.md",
+    "DS19/1-Creación de proyectos.md",
+    "DS19/2-Ingreso de Tipologías.md",
+    "DS19/3-Porcentajes de proyecto.md",
+    "DS19/4-Ingreso de imágenes.md",
+    "DS19/5-Firma Inspector.md",
+    "DS19/6-Creación de informes.md",
+    "Administrador/1-Ingreso de nuevos usuarios.md",
+    "img/Pasted image 20260611151127.png",
+    "Pasted image 20260611150831.png",
+    "img/Pasted image 20260611150308.png",
     "index.md",
-    "img/20260609-2121-12.8107458.gif",
-    "img/Pasted image 20260609170000.png",
-    "img/Pasted image 20260609165437.png",
-    "Pasted image 20260609164953.png",
-    "img/Pasted image 20260609164955.png",
-    "img/Pasted image 20260609160855.png",
-    "Pasted image 20260609160850.png",
-    "Pasted image 20260609155604.png",
-    "img/Pasted image 20260609155610.png",
-    "Pasted image 20260609155606.png",
-    "img",
-    "DS49/1- Ingesta de datos.md",
-    "DS49/Ingesta de datos",
-    "DS49",
-    "Generar Informes/Ds19/1 - Relleno de datos.md",
-    "Generar Informes/Ds49/1- Relleno de datos.md",
-    "Como Funciona/Informes.md",
-    "Manual Egis Los Robles.html",
-    "index.html",
-    "Como Funciona",
-    "Generar Informes",
-    "Generar Informes/Ds49",
-    "Generar Informes/Ds19",
-    "Generar Informes",
-    "1️⃣ Inicio/Aplicación Ds49.md",
-    "1️⃣ Inicio/Aplicación Ds19.md",
+    "img/Pasted image 20260611145156.png",
+    "img/Pasted image 20260611143229.png",
+    "Pasted image 20260611143142.png",
+    "2026-06-11S.md",
     "Sin título.md",
-    "Aplicación Ds49.md",
-    "Aplicación Ds19.md"
+    "_quarto.yml",
+    "Nuevo Microsoft Publisher Document.pub",
+    "Administrador",
+    "img/Pasted image 20260611111958.png",
+    "img/Pasted image 20260611102311.png",
+    "Pasted image 20260611101233.md",
+    "img/Pasted image 20260611101233.png",
+    "img/Pasted image 20260611100432.png",
+    "DS49/ingreso-de-datos/1-creación-de-proyectos.html.md",
+    "DS19/ingreso-de-datos/1-creación-de-proyectos.html.md",
+    "ds19/ingreso-de-datos/1-creación-de-proyectos.html.md",
+    "DS19/ingreso-de-datos",
+    "ds19/ingreso-de-datos",
+    "ds49/ingreso-de-datos/1-creación-de-proyectos.html.md",
+    "DS49/ingreso-de-datos",
+    "ds49/ingreso-de-datos",
+    "DS19/Ingreso de datos",
+    "DS19",
+    "Sin título.base"
   ]
 }
