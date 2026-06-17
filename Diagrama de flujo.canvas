@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"0494ed75c8fde794","type":"file","file":"Interfaz usuario.md","x":-560,"y":-420,"width":440,"height":960,"color":"4"},
+		{"id":"85200663d60ba483","type":"file","file":"Entorno workspace.md","x":-530,"y":680,"width":380,"height":760,"color":"4"},
+		{"id":"c4fd9f2f565f2c99","type":"file","file":"Diagrama relacional DS49.png","x":440,"y":129,"width":1400,"height":1546},
+		{"id":"0e3f27c9a6d25c7f","type":"file","file":"Diagrama relacional DS19.png","x":440,"y":-491,"width":825,"height":551}
+	],
+	"edges":[
+		{"id":"abff241b04db8067","fromNode":"0494ed75c8fde794","fromSide":"bottom","toNode":"85200663d60ba483","toSide":"top"}
+	]
+}

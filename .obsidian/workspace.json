@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "43d8fdee6d2bdc50",
+        "id": "6bb95f71f690a85a",
         "type": "tabs",
         "children": [
           {
-            "id": "019c445f0c0d4b2b",
+            "id": "170328a90844ece9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Administrador/2-Permisos de informes.md",
-                "mode": "source",
-                "source": false
+                "file": "Diagrama de flujo.canvas",
+                "viewState": {
+                  "x": 146.73286843784496,
+                  "y": 503.9740156737678,
+                  "zoom": -1.357510711964533
+                }
               },
-              "icon": "lucide-file",
-              "title": "2-Permisos de informes"
+              "icon": "lucide-layout-dashboard",
+              "title": "Diagrama de flujo"
             }
           }
         ]
@@ -156,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Administrador/2-Permisos de informes.md",
+                "file": "Administrador/3-Instalación en dispositivos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de 2-Permisos de informes"
+              "title": "Esquema de 3-Instalación en dispositivos"
             }
           }
         ],
@@ -182,55 +185,58 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
-      "webpage-html-export:Export as HTML": false
+      "webpage-html-export:Export as HTML": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "019c445f0c0d4b2b",
+  "active": "170328a90844ece9",
   "lastOpenFiles": [
-    "DS19/1-Creación de proyectos.md",
-    "DS19/2-Ingreso de Tipologías.md",
-    "DS19/3-Porcentajes de proyecto.md",
-    "DS19/4-Ingreso de imágenes.md",
-    "DS49/1-Creación de proyectos.md",
-    "DS49/2-Registro de pagos.md",
-    "DS49/4-Resoluciones y sustituciones.md",
-    "DS49/5-Post venta y otras gestiones.md",
-    "DS49/6-Datos Generales del Proyecto.md",
-    "DS49/7-Archivos Adjuntos.md",
-    "DS49/8-Fiscalizador Obras.md",
-    "DS19/6-Creación de informes.md",
-    "DS19/5-Firma Inspector.md",
-    "DS49/9-Firma.md",
-    "DS49/10-Creación de informes.md",
-    "DS49/3-Acontecimientos.md",
-    "Administrador/1-Nuevos usuarios.md",
-    "Administrador/2-Permisos de informes.md",
+    "Diagrama de flujo.canvas",
+    "Diagrama relacional DS19.png",
+    "Diagrama relacional DS49.png",
+    "Entorno workspace.md",
+    "Proyectos ds49/1-Creación de proyectos.md",
+    "Proyectos ds49/2-Registro de pagos.md",
+    "Proyectos ds49/3-Acontecimientos.md",
+    "Proyectos ds49/4-Resoluciones y sustituciones.md",
+    "Proyectos ds49/5-Post venta y otras gestiones.md",
+    "Proyectos ds49/6-Datos Generales del Proyecto.md",
+    "Proyectos ds49/7-Archivos Adjuntos.md",
+    "Proyectos ds49/8-Fiscalizador Obras.md",
+    "Proyectos ds49/9-Firma.md",
+    "Proyectos ds49/10-Creación de informes.md",
+    "Proyectos ds19/6-Creación de informes.md",
+    "Proyectos ds19/5-Firma Inspector.md",
+    "Proyectos ds19/3-Porcentajes de proyecto.md",
+    "Proyectos ds19/4-Ingreso de imágenes.md",
+    "Proyectos ds19/1-Creación de proyectos.md",
     "Administrador/3-Instalación en dispositivos.md",
-    "img/Pasted image 20260611151127.png",
-    "img/Pasted image 20260611170420.png",
-    "img/Pasted image 20260611170741.png",
-    "Pasted image 20260611170556.png",
-    "img/Pasted image 20260611170201.png",
+    "Administrador/5- Respaldo de datos.md",
+    "Administrador/4- Cambios en los informes.md",
+    "Interfaz usuario.md",
     "index.md",
-    "img/Pasted image 20260611164422.png",
-    "Pasted image 20260611150831.png",
-    "img/Pasted image 20260611150308.png",
-    "img/Pasted image 20260611145156.png",
-    "img/Pasted image 20260611143229.png",
-    "2026-06-11S.md",
+    "Diagrama relacional Ds19.png",
+    "Diagram DS19.pdf",
+    "Proyectos ds19/2-Ingreso de Tipologías.md",
+    "diagrama-de-flujo.html",
+    "Sin título.canvas",
+    "Diagrama de flujo/D. Flujo.md",
+    "Diagrama de flujo",
+    "Sin título.base",
+    "Administrador/2-Permisos de informes.md",
+    "Administrador/1-Nuevos usuarios.md",
+    "img/Pasted image 20260615154139.png",
+    "img/Pasted image 20260615120546.png",
+    "img/Pasted image 20260615115631.png",
+    "img/Screenshot_20260612-155814.png",
+    "img/Screenshot_20260612-154720.png",
+    "img/Screenshot_20260612-153837.png",
+    "img/Screenshot_20260612-150234.png",
     "_quarto.yml",
     "Nuevo Microsoft Publisher Document.pub",
     "Administrador",
-    "Pasted image 20260611101233.md",
-    "DS49/ingreso-de-datos/1-creación-de-proyectos.html.md",
-    "DS19/ingreso-de-datos/1-creación-de-proyectos.html.md",
-    "ds19/ingreso-de-datos/1-creación-de-proyectos.html.md",
     "DS19/ingreso-de-datos",
     "ds19/ingreso-de-datos",
-    "DS49/ingreso-de-datos",
-    "ds49/ingreso-de-datos",
-    "DS19/Ingreso de datos",
-    "DS19",
-    "Sin título.base"
+    "DS49/ingreso-de-datos"
   ]
 }

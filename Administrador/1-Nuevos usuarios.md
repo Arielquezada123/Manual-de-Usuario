@@ -9,14 +9,13 @@ Y en la vista seleccionaremos el botón de "share".
 
 ![[Pasted image 20260611145156.png]]
 
-En la casilla denominada "Add emails or domains" ingresaremos el correo con el que el usuario nuevo entrará a la aplicación.
-
+En la casilla denominada "Add emails or domains" ingresamos el correo con el que el nuevo usuario entrará a la aplicación.
 ![[Pasted image 20260611150308.png|469]]
 
 Luego de ingresado el correo podremos ver una vista general de los permisos que le daremos a la cuenta, para un usuario que solo ocupe la aplicación dejaremos por defecto el valor "Use app", marcamos la revalidación de "CAPTCHA" y podemos editar el mensaje que le llegará al usuario al correo con la invitación a la app.
 
 ![[Pasted image 20260611151127.png|540]]
 
-Por ultimo presionamos el botón "Send" y repetiríamos el mismo proceso para la aplicación de los DS19 agregando y dando permiso al usuario nuevo en las dos apps.
+Por último presionamos el botón "Send" y repetiremos  el mismo proceso para la aplicación de los DS19 agregando y dando permiso al usuario nuevo en las dos apps.
 
 [[2-Permisos de informes]]
